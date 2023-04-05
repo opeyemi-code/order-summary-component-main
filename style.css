@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(Images/pattern-background-desktop.svg);
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -133,7 +133,7 @@ a:hover{
 }
 @media (max-width: 475px){
     body{
-        background-image: url(images/pattern-background-mobile.svg);
+        background-image: url(Images/pattern-background-mobile.svg);
     }
     .container{
         max-width: 350px;
